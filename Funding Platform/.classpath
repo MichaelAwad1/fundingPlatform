@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-13.0.1">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/cglib-nodep-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/commons-lang3-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/cssparser-0.9.13.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/htmlunit-2.14.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/htmlunit-core-js-2.14.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/httpclient-4.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/httpcore-4.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/httpmime-4.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/javassist-3.19.0-GA.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/jcl-over-slf4j-1.6.6.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/jetty-http-8.1.14.v20131031.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/jetty-io-8.1.14.v20131031.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/jetty-util-8.1.14.v20131031.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/jetty-websocket-8.1.14.v20131031.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/jwebunit-core-3.2 Kopie.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/jwebunit-core-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/jwebunit-htmlunit-plugin-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/logback-classic-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/logback-core-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/mysql-connector-java-5.1.35-bin.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/nekohtml-1.9.20.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/objenesis-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/powermock-mockito-1.6.2-full.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/regexp-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Germany/uni due/sem5/SWT/swtdev/VR/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="/VR/lib/jwebunit-core-3.2 Kopie.jar"/>
+	<classpathentry kind="lib" path="/VR/lib/powermock-mockito-1.6.2-full.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/cglib-nodep-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/commons-lang3-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/cssparser-0.9.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/htmlunit-2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/htmlunit-core-js-2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/httpclient-4.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/httpcore-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/httpmime-4.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/javassist-3.19.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/jcl-over-slf4j-1.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/jetty-http-8.1.14.v20131031.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/jetty-io-8.1.14.v20131031.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/jetty-util-8.1.14.v20131031.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/jetty-websocket-8.1.14.v20131031.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/jwebunit-core-3.2 Kopie.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/jwebunit-core-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/jwebunit-htmlunit-plugin-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/logback-classic-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/logback-core-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/mysql-connector-java-5.1.35-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/nekohtml-1.9.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/objenesis-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/powermock-mockito-1.6.2-full.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/regexp-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/micha/Desktop/WS19-20/Softwaretechnik/LAB/New folder (2)/VR (1)/VR/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
